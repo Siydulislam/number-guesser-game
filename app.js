@@ -2,7 +2,6 @@ let min = 1;
 let max = 10;
 
 const randomNum = Math.floor(Math.random() * 10) + 1;
-console.log(randomNum);
 let guessesLeft = 3;
 
 // DOM Selection
